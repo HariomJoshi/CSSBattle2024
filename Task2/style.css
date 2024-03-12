@@ -92,3 +92,8 @@
 .singleButton:hover {
   background-color: rgb(248, 190, 190);
 }
+
+.extra {
+  display: flex;
+  flex-direction: column;
+}
